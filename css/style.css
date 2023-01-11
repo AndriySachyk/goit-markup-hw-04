@@ -154,6 +154,10 @@ ul,ol{
     background-color: var(--backround-color-title);
     padding-top: 192px;
     padding-bottom: 192px;
+    background-image: linear-gradient(rgba(46, 47, 66, 0.7), rgba(46, 47, 66, 0.7)), url(../images/people-office.jpg);
+    background-repeat: no-repeat;
+    
+    background-position: center center;
 }
 
 
